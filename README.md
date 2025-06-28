@@ -18,7 +18,7 @@ pip install streamlit pandas plotly
 
 ## 🚀 Menjalankan Dashboard
 
-1. Buka terminal dan navigasikan ke folder yang berisi `dashboard.py`.
+1. Navigasikan file exporer ke folder yang berisi `dashboard.py`, lalu buka terminal dengan meng-enter "cmd" di address bar file explorer.
 2. Jalankan aplikasi dengan perintah berikut:
 
 ```bash
